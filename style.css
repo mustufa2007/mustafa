@@ -1,0 +1,160 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+}
+.tcloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+.bcloud {
+  position: absolute;
+  left: 350px;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+h4 {
+  font-family: "Montserrat", sans-serif;
+}
+.normal {
+  font-weight: normal;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+}
+
+.img {
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+.img2 {
+  width: 30%;
+  float: right;
+  margin-left: 40px;
+}
+
+.topcontainer {
+  padding-top: 130px;
+  position: relative;
+  background-color: #e3fdfd;
+}
+a {
+  color: #11999e;
+}
+
+.middle-container {
+  font-weight: bolder;
+}
+
+.bottom-container {
+  font-weight: bolder;
+}
+
+#p-img {
+  width: 180px;
+}
+
+
+.profile{
+  width: 35%;
+  margin: 150px auto 100px auto;
+}
+
+.profileh2{
+  margin: 50px auto 50px auto;
+}
+
+.profilep{
+  line-height: 2;
+}
+
+hr{
+  width: 5%;
+ border-style: none;
+ border-top-style: dotted;
+ border-color: lightgray;
+ border-width: 7px;
+ margin-bottom: 125px ;
+ margin-top: 125px;
+}
+
+.contacth3{
+  margin: 50px auto 50px auto;
+}
+
+.contact-me{
+    margin: auto;
+  width: 40%;
+}
+
+.para{
+  line-height: 2;
+}
+
+.btn{
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 13px;
+  box-sizing: border-box;
+}
+
+
+.btn:hover{
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  display: inline-block;
+  text-decoration: none;
+  
+  cursor: pointer;
+  color: #084a4d;
+
+}
+.bottom-container{
+  margin-bottom:50px;
+  
+}
+
+.footer-link{
+  
+  padding: 20px;
+  text-decoration: none;
+
+}
+
+.footer-link:hover{
+  
+  color: #084a4d;
+}
+
+.end{
+  margin-top: 75px;
+}
